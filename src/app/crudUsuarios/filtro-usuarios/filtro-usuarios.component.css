@@ -1,0 +1,14 @@
+.titulo {
+  color: white;
+  text-align: center;
+  font-size: medium;
+  font-size: 40px;
+  font-family: fantasy;
+}
+mat-form-field {
+  width: 100%;
+  max-width: 500px;
+}
+.contenedorusers {
+  margin-bottom: 10rem !important;
+}
